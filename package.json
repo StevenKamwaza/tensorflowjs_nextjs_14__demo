@@ -9,15 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
+    "chart.js": "^4.4.2",
+    "encoding": "^0.1.13",
+    "next": "14.1.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.4"
+    "recharts": "^2.12.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
     "eslint": "^8",
-    "eslint-config-next": "14.1.4"
+    "eslint-config-next": "14.1.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
   }
 }
